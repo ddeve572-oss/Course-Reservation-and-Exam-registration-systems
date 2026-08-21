@@ -59,6 +59,7 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+
 <img width="651" height="652" alt="image" src="https://github.com/user-attachments/assets/63c7f442-1aa7-4e4b-b633-b8ec57c42680" />
 
 
@@ -100,6 +101,7 @@ Activity diagrams present a number of benefits to users. Consider creating an ac
 Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
+
 <img width="607" height="683" alt="image" src="https://github.com/user-attachments/assets/938ae502-af79-4ad8-a9df-b6004dd858d8" />
 
 
@@ -122,6 +124,7 @@ Represent the details of UML use cases.
 Model the logic of a sophisticated procedure, function, or operation. See how objects and components interact with each other to complete a process.
 
 Plan and understand the detailed functionality of an existing or future scenario.
+
 <img width="692" height="548" alt="image" src="https://github.com/user-attachments/assets/2b337dfe-87c6-46fa-b2b8-5745245635b4" />
 
 
